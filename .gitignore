@@ -1,0 +1,20 @@
+# Python-related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment-related
+.venv/
+.env
+.flaskenv
+
+# IDE/Editor settings
+.vscode/
+*.swp
+
+# Docker
+docker-compose.override.yml
+
+# Other
+.DS_Store
